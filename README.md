@@ -22,13 +22,33 @@ I create DIY blog posts and open source packages mainly about python and Robotic
   ---
  
  <p>
-  <img width="250" align='left' src="[UAV+UGV2-1024x524.png](https://github.com/juan-to/juanto/blob/main/UAV%2BUGV2-1024x524.png)?raw=true">
+  <img width="250" align='left' src="UAV+UGV2-1024x524.png?raw=true">
 </p>
  
 ### "Automation is good, so long as you know where exactly to put the machine"
 
 -Eliyahu Goldratt: Theory of Constraints
 
+ ---
+<!--
+<p>
+  <a href="https://waylonwalker.com/latest"><img width="300" align='right' src="UAV+UGV2-1024x524.png?raw=true"></a>
+</p>
+
+### My Digital Garden 🌱
+
+I write regular blog posts, most of which you will find on my personal website [waylonwalker.com](https://waylonwalker.com) and [dev.to/waylonwalker](https://dev.to/waylonwalker).
+
+I write about things I am familiar with, things that trip up folks that I mentor, and things that I am learning.  Day to day I make things with **data** using **python** and **javascript**. 
+
+[Latest Post 👉](https://waylonwalker.com/latest)
+
+<details>
+ <summary><strong>other favorite posts</strong></summary>
+ <a href="https://waylonwalker.com/blog/eight-years-cat/"><img width="400" src="https://images.waylonwalker.com/eight-years-cat-og.png?raw=true"></a>
+ <a href="https://waylonwalker.com/blog/what-are-github-actions/"><img width="400" src="https://images.waylonwalker.com/what-are-github-actions-og.png?raw=true"></a>
+ 
+</details>
  ---
 <!--
 <p>
@@ -113,13 +133,15 @@ Data and Analytics Leader @IBM | Minnesota State Alum | #Technologist | #Investo
 
 <h2></h2>
 -->
--->
+<!--
 <p align='center'>
 <!-- <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=waylonwalker.visitor-badge"> -->
- <p/>
+<!-- <p/>
 <div align="center">
 	<br>
 	<a href="https://raw.githubusercontent.com/WaylonWalker/waylonwalker/main/follower.svg">
 		<img src="follower.svg" width="800" height="140">
 	</a>
 </div>
+
+--!>
