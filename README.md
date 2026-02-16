@@ -12,7 +12,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: martinez.jt@protonmail.com
 - ⚡ Fun fact: I enjoy welding and working with steel 👨‍🏭💥 💥
 -->
-I create DIY blog posts and open source packages mainly about python and Robotics.  I have a passion for BUilding and learning during the process. I believe on Hands-on engineering applied on developement: prototyping testing, testing, and building, rather than focusing solely on theoretical design.  You can see a full list of what I am up to on [waylonwalker.com](waylonwalker.com). 
+I create DIY blog posts and open source packages mainly about python and Robotics.  I have a passion for BUilding and learning during the process. I believe on Hands-on engineering applied on developement: prototyping testing, testing, and building, rather than focusing solely on theoretical design.  
+
+
+<!--  You can see a full list of what I am up to on [waylonwalker.com](waylonwalker.com). -->
+
+
 
 - 🔭 I’m currently working on Autonomous Vehicle Validation
 - 🌱 I’m currently learning Ardupilot, PX4 and MAVLink 
@@ -22,7 +27,7 @@ I create DIY blog posts and open source packages mainly about python and Robotic
   ---
  
  <p>
-  <img width="250" align='left' src="UAV+UGV2-1024x524.png?raw=true">
+  <img width="250" align='left' src="ICON/UAV+UGV2-1024x524.png?raw=true">
 </p>
  
 ### "Automation is good, so long as you know where exactly to put the machine"
@@ -49,8 +54,7 @@ I write about things I am familiar with, things that trip up folks that I mentor
  <a href="https://waylonwalker.com/blog/what-are-github-actions/"><img width="400" src="https://images.waylonwalker.com/what-are-github-actions-og.png?raw=true"></a>
  
 </details>
- ---
-<!--
+
 <p>
   <a href="https://waylonwalker.com/latest"><img width="300" align='right' src="UAV+UGV2-1024x524.png?raw=true"></a>
 </p>
@@ -77,7 +81,7 @@ I write about things I am familiar with, things that trip up folks that I mentor
 ### <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers
 
 
-<!--
+
 ## <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers _258_
 
 <a href='https://twitter.com/natterstefan'>
@@ -144,4 +148,4 @@ Data and Analytics Leader @IBM | Minnesota State Alum | #Technologist | #Investo
 	</a>
 </div>
 
---!>
+-->
